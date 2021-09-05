@@ -22,6 +22,8 @@ namespace Fib
 		// 		return Fib(n - 1) + Fib(n - 2);
 		// }
 
+
+		//Alternative Approach
 		static int Fib2(int n)
 		{
 			if (n == 0) return 1;
