@@ -8,21 +8,21 @@ namespace MSUBears
 		{
 			for (int i = 1; i <= 100; i++)
 			{
+				if( i%15==0){
+					Console.WriteLine("MSUBears");
+					continue;
+				}
 				if (i % 3 == 0)
 				{
-					if (i % 5 == 0)
-					{
-						Console.WriteLine("MSUBears");
-					}
-					else
-					{
-						Console.WriteLine("MSU");
-					}
+					Console.WriteLine("MSU");
+					continue;
 				}
-				else
+				if (i%5==0)	
 				{
-					Console.WriteLine(i);
+					Console.WriteLine("Bears");
+					continue;
 				}
+				Console.WriteLine(i);
 			}
 		}
 	}
