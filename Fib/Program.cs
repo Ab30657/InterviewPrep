@@ -19,10 +19,7 @@ namespace Fib
 		// 	{
 		// 		return 1;
 		// 	}
-		// 	else
-		// 	{
 		// 		return Fib(n - 1) + Fib(n - 2);
-		// 	}
 		// }
 
 		static int Fib2(int n)
