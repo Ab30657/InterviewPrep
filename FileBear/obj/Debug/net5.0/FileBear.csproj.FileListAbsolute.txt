@@ -1,0 +1,16 @@
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear.deps.json
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear.runtimeconfig.json
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear.runtimeconfig.dev.json
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/ref/FileBear.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/bin/Debug/net5.0/FileBear.pdb
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.csproj.AssemblyReference.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.AssemblyInfoInputs.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.AssemblyInfo.cs
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.csproj.CoreCompileInputs.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/ref/FileBear.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.pdb
+/home/vinsmoke/Documents/CSC/c#/Interview/FileBear/obj/Debug/net5.0/FileBear.genruntimeconfig.cache

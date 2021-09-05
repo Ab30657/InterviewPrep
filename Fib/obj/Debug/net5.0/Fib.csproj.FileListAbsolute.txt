@@ -1,0 +1,16 @@
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib.deps.json
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib.runtimeconfig.json
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib.runtimeconfig.dev.json
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/ref/Fib.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/bin/Debug/net5.0/Fib.pdb
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.csproj.AssemblyReference.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.AssemblyInfoInputs.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.AssemblyInfo.cs
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.csproj.CoreCompileInputs.cache
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/ref/Fib.dll
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.pdb
+/home/vinsmoke/Documents/CSC/c#/Interview/Fib/obj/Debug/net5.0/Fib.genruntimeconfig.cache
