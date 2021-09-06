@@ -8,7 +8,8 @@ namespace MSUBears
 		{
 			for (int i = 1; i <= 100; i++)
 			{
-				if( i%15==0){
+				if (i % 15 == 0)
+				{  //Divisible by 15 means divisible by 5 and 3
 					Console.WriteLine("MSUBears");
 					continue;
 				}
@@ -17,7 +18,7 @@ namespace MSUBears
 					Console.WriteLine("MSU");
 					continue;
 				}
-				if (i%5==0)	
+				if (i % 5 == 0)
 				{
 					Console.WriteLine("Bears");
 					continue;
