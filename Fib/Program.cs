@@ -6,6 +6,7 @@ namespace Fib
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Enter the number: ");
 			var num = int.Parse(Console.ReadLine());
 			Console.WriteLine(Fib2(num));
 		}
