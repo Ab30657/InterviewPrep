@@ -7,8 +7,11 @@ namespace FileBear
 	{
 		static void Main(string[] args)
 		{
-			StreamReader sr = new StreamReader("test.txt");
-			var line = sr.ReadLine();
+			var line = "";
+			using (StreamReader sr = new StreamReader("test.txt"))
+			{
+				line = sr.ReadLine();
+			}
 			if (line != null)
 			{
 				if (line.Contains("bear"))
